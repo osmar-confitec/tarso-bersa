@@ -1,0 +1,10 @@
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\bin\Debug\netcoreapp2.0\ApiConstruct.deps.json
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\bin\Debug\netcoreapp2.0\ApiConstruct.runtimeconfig.json
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\bin\Debug\netcoreapp2.0\ApiConstruct.runtimeconfig.dev.json
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\bin\Debug\netcoreapp2.0\ApiConstruct.dll
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\bin\Debug\netcoreapp2.0\ApiConstruct.pdb
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\obj\Debug\netcoreapp2.0\ApiConstruct.csproj.CoreCompileInputs.cache
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\obj\Debug\netcoreapp2.0\ApiConstruct.AssemblyInfoInputs.cache
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\obj\Debug\netcoreapp2.0\ApiConstruct.AssemblyInfo.cs
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\obj\Debug\netcoreapp2.0\ApiConstruct.dll
+E:\FontesAngular\Angular_TarsoBersa\ApiConstruct\obj\Debug\netcoreapp2.0\ApiConstruct.pdb

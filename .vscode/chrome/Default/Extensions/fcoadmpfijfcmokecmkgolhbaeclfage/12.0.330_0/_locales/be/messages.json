@@ -1,0 +1,117 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Знойдзены ніжэйшыя цэны!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Найлепшая прапанова тут!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Зэканомце %s %s на %s"
+  },
+  "safeShopPopularHotelIn": {
+    "message": "Папулярныя атэлі ад %s",
+    "description": "%s is the price + currency. Example: Popular hotels from 200,00 €"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Наступная прапанова %s на %s"
+  },
+  "safeShopOffers": {
+    "message": "%s прапаноў(-вы) ад %s"
+  },
+  "sasRecommendedOfferTitle": {
+    "message": "Гэты рознічны прадавец, які заслугоўвае даверу, прапаноўвае добрыя кошты, у яго добрыя агляды і якасць абслугоўвання."
+  },
+  "sasRecommendedOfferMessage": {
+    "message": "Рэкамендавана"
+  },
+  "sasShippingLabel": {
+    "message": "Дастаўка з"
+  },
+  "sasAdditionalFees": {
+    "message": "Могуць спаганяцца дадатковыя зборы і падаткі"
+  },
+  "sasStartingPrice": {
+    "message": "Ад: %s",
+    "description": "%s is the minimum value off the price. Example: Starting at: $124.00"
+  },
+  "sasHintBestOffer": {
+    "message": "Найлепшая прапанова"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Да найлепшага кошту для гэтага тавару."
+  },
+  "sasHintOtherOffers": {
+    "message": "Параўнаць кошты"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Іншыя аналагічныя прапановы"
+  },
+  "sasHintSettings": {
+    "message": "Налады"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Наладзьце параметры тут"
+  },
+  "sasPromoNewBadge": {
+    "message": "Новае"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice знаходзіць найлепшыя прапановы па патрэбных вам таварах. Праглядвайце кошты, параўноўвайце крамы, чытайце агляды пакупнікоў, правярайце рэпутацыю прадаўцоў, глядзіце відэаагляды тавараў, атрымлівайце купоны на скідкі – і ўсё гэта бяспечна, праз ваш вэб-браўзер."
+  },
+  "sasPromoAction": {
+    "message": "Гучыць добра, закрыць паведамленне"
+  },
+  "sasPromoOptout": {
+    "message": "Адключыць SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Ніколі не паказваць купоны для %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Адключыць SafePrice для %s на 24 гадзіны"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Адключыць SafePrice для ўсіх сайтаў на 24 гадзіны"
+  },
+  "sasOptionsEnableOnSite": {
+    "message": "Уключыць SafePrice на %s",
+    "description": "Message that allow the user to enable SP if it was deactivated for 24H for one domain. %s: name of the domain"
+  },
+  "sasOptionsEnableAll": {
+    "message": "Уключыць SafePrice на ўсіх сайтах",
+    "description": "Message that allow the user to enable SP if it was deactivated for 24H for all domains"
+  },
+  "safeShopCoupons": {
+    "message": "Купоны (%s)"
+  },
+  "sasHintCoupons": {
+    "message": "Праглядзець купоны"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Праглядзець купоны і захаваць"
+  },
+  "sasCouponsTitle": {
+    "message": "Ёсць даступныя купоны (%s)!"
+  },
+  "sasCouponsSaving": {
+    "message": "Зэканомце да %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Код купона"
+  },
+  "sasClickToCopy": {
+    "message": "Націсніце, каб скапіраваць"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Як актываваць купон"
+  },
+  "sasNoCouponCode": {
+    "message": "Код не патрабуецца"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Код скапіраваны ў буфер абмену."
+  }
+}

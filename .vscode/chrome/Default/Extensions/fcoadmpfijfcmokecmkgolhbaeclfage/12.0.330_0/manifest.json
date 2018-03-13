@@ -1,0 +1,24 @@
+{
+   "author": "Avast",
+   "background": {
+      "scripts": [ "common/libs/q.js", "common/libs/eventemitter2.js", "common/libs/protobuf.js", "common/libs/lodash.js", "common/libs/burger.js", "scripts/abek.bl.crx.js", "common/scripts/gpb.js", "common/scripts/query.js", "common/scripts/wrc.js", "common/scripts/bal.js", "scripts/bs.crx.js", "scripts/bs.sp.crx.js" ]
+   },
+   "browser_action": {
+      "default_icon": "common/ui/icons/logo-safeprice-gray.png"
+   },
+   "default_locale": "en",
+   "description": "Avast SafePrice - safe shopping extension.",
+   "icons": {
+      "128": "common/ui/icons/logo-safeprice-128.png",
+      "48": "common/ui/icons/logo-safeprice-48.png",
+      "64": "common/ui/icons/logo-safeprice-64.png",
+      "96": "common/ui/icons/logo-safeprice-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuW7BhI9xcFaagIdkfu8Sw+zRyeNfH2fG9YRrGPkrqQxtHNpP1YirLwZiNIy6SA9hlW1DqCPnFDVC+VQA/lm0LEYGeHFdf49hd2lKamAMCc+hrhz17C8RhcLgWTWLkLAroOhjcA0jdSn+XbnlznHmPh6vz1hvd3rwFkWP9FOMJKIasFmeKT1G1THiRl0sOj/dDcU/E2w2vlyk91eciQL0vJI6PpxPihf+cGpR/QS1vKJYnf8Evza4UMB2rcKxkgAtMjM3U6pDuEVrYVFj/qcG6wvsbVbBRuOkl1voHSXDIFpm0ph4PUFjQuJ/nr9KJJK3Kl5rjgdzaTERcygwcQCKIwIDAQAB",
+   "manifest_version": 2,
+   "name": "Avast SafePrice (BETA)",
+   "permissions": [ "storage", "cookies", "*://*.avast.com/*", "http://*/*", "https://*/*", "tabs", "webNavigation", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "12.0.330",
+   "web_accessible_resources": [ "common/ui/*", "common/ui/icons/*", "common/ui/css/*" ]
+}
